@@ -13,6 +13,6 @@ Name your pull request as your **FULL NAME** and the description as your **EMAIL
 If you successfully do this, you will be awarded **10 bonus points**.
 
 
-# Contibutores
+# Contibutors
 
-[JOBIN](https://github.com/Jobin-S)
+[JOBIN](https://www.instagram.com/jobins76400/)
