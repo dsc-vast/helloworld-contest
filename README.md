@@ -11,3 +11,7 @@ Place a **PULL REQUEST**.
 Name your pull request as your **FULL NAME** and the description as your **EMAIL ID**
 
 If you successfully do this, you will be awarded **10 bonus points**.
+
+
+# contributor
+-[sandra alice john](sandraalicejohn8@gmail.com)
