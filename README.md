@@ -8,7 +8,7 @@ Then edit any file in your copy and make a change, add any file or edit some tex
 
 Place a **PULL REQUEST**.
 
-Name your pull request as your **FULL NAME** and the description as your **EMAIL ID**
+Name your pull request as your **Rayyan Rasheed** and the description as your **rayyanwebofficail@gamil.com**
 
 If you successfully do this, you will be awarded **10 bonus points**.
 IT will provide you extra marks
